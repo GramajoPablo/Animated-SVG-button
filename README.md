@@ -1,2 +1,2 @@
-# button-animation
+# Animated SVG button
  button-animation
